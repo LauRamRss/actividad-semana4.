@@ -1,0 +1,8 @@
+Que las comunidades puedan construir sus propias herramientas tecnológicas con software abierto
+como Node.js les da independencia frente a soluciones privadas costosas. Esto permite resolver problemas 
+locales con software hecho a la medida, sin depender de terceros. Al ser tecnologías abiertas, cualquier persona 
+puede aprenderlas, modificarlas y mejorarlas sin pagar licencias. Esto democratiza el acceso al desarrollo de software,
+especialmente en comunidades con pocos recursos. Además, fomenta la colaboración, ya que el conocimiento y el código pueden
+compartirse libremente entre desarrolladores. Node.js, al usar JavaScript, también facilita que personas que ya saben programar
+para la web puedan crear servidores sin aprender un lenguaje completamente nuevo. En conjunto, esto impulsa la innovación local y 
+reduce la brecha tecnológica entre comunidades.
